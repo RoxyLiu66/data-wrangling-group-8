@@ -1,6 +1,7 @@
 # data-wrangling-group-8
 created by Avalvir Kaur Sekhon **AVA** AND Zihuan Liu **Roxy**
-Avalvir Kaur Sekhon
+
+
 RQ 1: Contribution Volume vs. Influence (by Language) 
 • Question: To what extent does repository creation frequency correlate with follower count, and does 
 this vary by programming language? 
